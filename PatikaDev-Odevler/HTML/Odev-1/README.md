@@ -1,0 +1,2 @@
+## PATİKA.DEV HTML ODEV-1
+Gazi HATAŞ.
