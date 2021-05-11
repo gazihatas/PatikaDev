@@ -1,0 +1,55 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.center{
+    text-align: center;
+    list-style-position: inside;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+}
+header h1 {
+    text-align:inline;
+}
+
+a{
+    list-style-type:none;
+    text-decoration: none;
+    
+}
+nav {
+    
+}
+
+section {
+    
+    float: left;
+}
+
+
+article {
+    float: right;
+}
+
+.navbar ul li {
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 15px 15px;
+    
+}
+.navbar ul li a {
+    color: #ffc93c;
+}
+article, ul {
+    list-style-position: inside;
+    
+}
+
+
+footer {
+    
+}
