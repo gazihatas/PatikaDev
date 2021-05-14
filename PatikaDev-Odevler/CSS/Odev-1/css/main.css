@@ -1,6 +1,7 @@
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Reggae One', cursive;
+    
 }
 .center{
     text-align: center;
@@ -8,11 +9,12 @@ body {
 }
 
 header {
-    margin: 0;
-    padding: 0;
+    margin: 30px;
+    padding: 0;    
+    color: #36003B;
 }
-header h1 {
-    text-align:inline;
+.palet2 {
+    font-size: 2em;
 }
 
 a{
@@ -20,36 +22,39 @@ a{
     text-decoration: none;
     
 }
+
 nav {
-    
-}
-
-section {
-    
-    float: left;
-}
-
-
-article {
-    float: right;
+    margin: 15px;
 }
 
 .navbar ul li {
+    text-decoration: none;  
     font-size: 20px;
     list-style: none;
     display: inline-block;
     padding: 15px 15px;
+    background-color: black;
     
 }
 .navbar ul li a {
-    color: #ffc93c;
+    color: yellow;
 }
+
+
+.palet1 {
+     color: blue;
+     font-size: 1.5em;
+    
+} 
+
 article, ul {
     list-style-position: inside;
     
 }
 
+.list1 {
+    list-style-position: inside;
 
-footer {
-    
 }
+
+
