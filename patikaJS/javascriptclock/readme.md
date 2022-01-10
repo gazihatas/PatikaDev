@@ -28,6 +28,9 @@ code .
 
 Pull requestler kabul edilir. Büyük deeğişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+![](img/Patika-logo.png)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
