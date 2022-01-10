@@ -1,6 +1,6 @@
 # JS Ödev 1 | Javascript Saat ve Karşılama
 
-[Patika.dev](https://www.patika.dev/) Patika.dev eğitim platformu javascript bölümü 
+[Patika.dev](https://www.patika.dev/) eğitim platformu javascript bölümü. 
 
 ![](img/odev.gif)
 
