@@ -33,5 +33,5 @@ Pull requestler kabul edilir. Büyük deeğişiklikler için, lütfen önce neyi
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Kodluyoruz and Patika.dev
-![](img/Patika-logo.png)
+![https://www.patika.dev/](img/Patika-logo.png)
 ![](img/kodluyoruz-logo.png)
