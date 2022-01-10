@@ -10,7 +10,7 @@
 Öncelikle projeyi klonlayın
 
 ```
-https://github.com/gazihatas/kodluyoruzilkrepo.git
+https://github.com/gazihatas/PatikaDev.git
 ```
 
 ## Usage 
